@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Geekz Bayl!](https://www.linkedin.com/in/geeks-bay-43b114252/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Geekz Bay !](https://www.linkedin.com/in/geeks-bay-43b114252/) 
 
 <a href="https://www.linkedin.com/in/geeks-bay-43b114252/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
